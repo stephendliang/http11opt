@@ -1,0 +1,7 @@
+GET /api/users HTTP/1.1
+Host: example.com
+X-User-Name: José García
+X-City: 東京
+X-Emoji: 🚀🔥
+Accept: application/json
+

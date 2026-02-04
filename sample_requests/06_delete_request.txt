@@ -1,0 +1,5 @@
+DELETE /api/users/456 HTTP/1.1
+Host: api.example.com
+Authorization: Bearer secrettoken
+X-Request-ID: abc123
+

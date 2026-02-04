@@ -1,0 +1,4 @@
+GET /search?q=%E4%B8%AD%E6%96%87&filter=%3Cscript%3E&path=%2Fetc%2Fpasswd HTTP/1.1
+Host: example.com
+Accept: text/html
+

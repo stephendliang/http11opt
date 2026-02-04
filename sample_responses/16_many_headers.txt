@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 27
+Server: nginx/1.18.0
+Date: Thu, 23 Jan 2026 12:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Origin: *
+X-Request-ID: req-abc-123-xyz
+X-Response-Time: 42ms
+
+{"status": "ok", "data": []}

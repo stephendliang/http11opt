@@ -1,0 +1,6 @@
+HTTP/1.1 401 Unauthorized
+WWW-Authenticate: Bearer realm="api"
+Content-Type: application/json
+Content-Length: 52
+
+{"error": "Unauthorized", "message": "Invalid token"}

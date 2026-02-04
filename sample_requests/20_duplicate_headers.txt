@@ -1,0 +1,8 @@
+GET /resource HTTP/1.1
+Host: example.com
+Accept: text/html
+Accept: application/xhtml+xml
+Accept: application/xml;q=0.9
+Cache-Control: no-cache
+Cache-Control: no-store
+

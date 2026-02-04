@@ -1,0 +1,6 @@
+HTTP/1.1 201 Created
+Content-Type: application/json
+Location: /api/users/456
+Content-Length: 52
+
+{"id": 456, "message": "Resource created successfully"}

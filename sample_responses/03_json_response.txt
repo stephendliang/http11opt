@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 89
+X-Request-ID: req-12345
+
+{"status": "success", "data": {"id": 123, "name": "John Doe", "email": "john@example.com"}}

@@ -1,0 +1,9 @@
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 127
+
+<!DOCTYPE html>
+<html>
+<head><title>404 Not Found</title></head>
+<body><h1>Not Found</h1><p>Resource not found.</p></body>
+</html>

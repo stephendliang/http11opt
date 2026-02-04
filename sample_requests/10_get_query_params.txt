@@ -1,0 +1,5 @@
+GET /search?q=http+protocol&page=1&limit=20&sort=relevance HTTP/1.1
+Host: search.example.com
+Accept: application/json
+X-API-Key: api_key_12345
+

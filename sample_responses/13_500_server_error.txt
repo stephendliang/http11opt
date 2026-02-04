@@ -1,0 +1,6 @@
+HTTP/1.1 500 Internal Server Error
+Content-Type: application/json
+Content-Length: 74
+Retry-After: 30
+
+{"error": "Internal Server Error", "message": "An unexpected error occurred"}

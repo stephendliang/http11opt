@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.example.com/new-page
+Content-Type: text/html
+Content-Length: 56
+
+<html><body>Moved to /new-page</body></html>

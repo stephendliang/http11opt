@@ -1,0 +1,5 @@
+CONNECT www.example.com:443 HTTP/1.1
+Host: www.example.com:443
+Proxy-Authorization: Basic dXNlcjpwYXNz
+Proxy-Connection: Keep-Alive
+

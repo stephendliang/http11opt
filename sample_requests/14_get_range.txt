@@ -1,0 +1,6 @@
+GET /video/large.mp4 HTTP/1.1
+Host: cdn.example.com
+Range: bytes=0-1023
+Accept: video/mp4
+If-Range: "etag123"
+

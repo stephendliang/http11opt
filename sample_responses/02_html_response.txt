@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 95
+Server: Apache/2.4.41
+
+<!DOCTYPE html>
+<html>
+<head><title>Welcome</title></head>
+<body><h1>Hello!</h1></body>
+</html>

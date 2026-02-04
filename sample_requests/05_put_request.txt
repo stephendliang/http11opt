@@ -1,0 +1,7 @@
+PUT /api/users/123 HTTP/1.1
+Host: api.example.com
+Content-Type: application/json
+Authorization: Bearer token123abc
+Content-Length: 67
+
+{"id": 123, "name": "Jane Doe", "role": "admin", "active": true}

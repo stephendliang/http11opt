@@ -1,0 +1,5 @@
+HTTP/1.1 302 Found
+Location: /login
+Set-Cookie: session=expired; Max-Age=0
+Content-Length: 0
+
