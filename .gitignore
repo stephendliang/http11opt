@@ -1,0 +1,8 @@
+# Build artifacts
+*.o
+*.a
+test_util
+http_scan
+
+# Local machine config
+local.mk
